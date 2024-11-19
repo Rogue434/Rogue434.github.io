@@ -1,4 +1,5 @@
 {
   "version" : 1.0,
-  "url" : "https://rogue434.github.io/firmware_PM_COLLOCATION1_1.bin"
+  "host" : "rogue434.github.io",
+  "path" : "/PM_COLLOCATION1/1_0.bin"
 }
